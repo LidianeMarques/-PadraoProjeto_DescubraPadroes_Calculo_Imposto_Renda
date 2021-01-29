@@ -28,7 +28,8 @@ Adicionalmente, a PJ paga ICMS por produtos adquiridos. Vamos considerar que a a
 Responda:
 
 1. Considerando que deve-se garantir que o cálculo inclua o valor do IR, que padrão de projeto pode ser aplicado para isto?
-  ! Ob.Lembrando que não necessariamente o padrão precisa ser aplicado, pois podemos resolver de uma forma simples. Tudo depende do problema em questão. Considerando que existem diversas maneiras de calcular o IR para PJ e que precisaríamos trocar uma implementação pela outra de acordo com determinadas condições, isto justificaria a implementação de um padrão.
+
+ℹ️ Nota: Lembrando que não necessariamente o padrão precisa ser aplicado, pois podemos resolver de uma forma simples. Tudo depende do problema em questão. Considerando que existem diversas maneiras de calcular o IR para PJ e que precisaríamos trocar uma implementação pela outra de acordo com determinadas condições, isto justificaria a implementação de um padrão.
 
     <p>Ao meu ver, podemos aplicar uns três padõres diferentes, são: Strategy sozinho ou com Template Method. Por que segundo a aplicabilidade do padrão:</p>
       
