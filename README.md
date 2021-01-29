@@ -29,12 +29,12 @@ Responda:
 
 1. Considerando que deve-se garantir que o cálculo inclua o valor do IR, que padrão de projeto pode ser aplicado para isto?
 
-ℹ️ Nota: Lembrando que não necessariamente o padrão precisa ser aplicado, pois podemos resolver de uma forma simples. Tudo depende do problema em questão. Considerando que existem diversas maneiras de calcular o IR para PJ e que precisaríamos trocar uma implementação pela outra de acordo com determinadas condições, isto justificaria a implementação de um padrão.
+    ℹ️ Nota: Lembrando que não necessariamente o padrão precisa ser aplicado, pois podemos resolver de uma forma simples. Tudo depende do problema em questão. Considerando que existem diversas maneiras de calcular o IR para PJ e que precisaríamos trocar uma implementação pela outra de acordo com determinadas condições, isto justificaria a implementação de um padrão.
 
-    <p>Ao meu ver, podemos aplicar uns três padõres diferentes, são: Strategy sozinho ou com Template Method. Por que segundo a aplicabilidade do padrão:</p>
-      
-    * Um comportamento de método(implementação de um algoritmo) precisa ser diferente em classes distintas e/ou <b> mudar em tempo de execução </b>;
-    * Uma determinada classe deve ter comportamento específico (método) e outras não;
-    * Não deseja-se que uma alteração em uma superclasse afete subclasses;
-    
+      <p>Ao meu ver, podemos aplicar uns três padõres diferentes, são: Strategy sozinho ou com Template Method. Por que segundo a aplicabilidade do padrão:</p>
+
+      * Um comportamento de método(implementação de um algoritmo) precisa ser diferente em classes distintas e/ou <b> mudar em tempo de execução </b>;
+      * Uma determinada classe deve ter comportamento específico (método) e outras não;
+      * Não deseja-se que uma alteração em uma superclasse afete subclasses;
+
 </div>
